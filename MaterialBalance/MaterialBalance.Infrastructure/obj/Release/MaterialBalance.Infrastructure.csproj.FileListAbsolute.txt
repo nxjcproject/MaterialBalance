@@ -1,0 +1,5 @@
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\bin\Release\MaterialBalance.Infrastructure.dll
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\bin\Release\MaterialBalance.Infrastructure.pdb
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.dll
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.pdb

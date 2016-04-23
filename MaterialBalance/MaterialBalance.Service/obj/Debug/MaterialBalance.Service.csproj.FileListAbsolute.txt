@@ -1,0 +1,5 @@
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\bin\Debug\MaterialBalance.Service.dll
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\bin\Debug\MaterialBalance.Service.pdb
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.dll
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.pdb

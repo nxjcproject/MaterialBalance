@@ -1,0 +1,4 @@
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\bin\Release\MaterialBalance.Service.dll
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\bin\Release\MaterialBalance.Service.pdb
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Release\MaterialBalance.Service.dll
+E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Release\MaterialBalance.Service.pdb

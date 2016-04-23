@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialBalance.Web", "MaterialBalance.Web\MaterialBalance.Web.csproj", "{0108127D-A1FB-451F-A174-4EB7C0506FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialBalance.Service", "MaterialBalance.Service\MaterialBalance.Service.csproj", "{A3306173-676A-4899-8B4A-9ADB59C6F34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialBalance.Infrastructure", "MaterialBalance.Infrastructure\MaterialBalance.Infrastructure.csproj", "{5DEE3F0F-156C-495E-944A-F1E29253C273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0108127D-A1FB-451F-A174-4EB7C0506FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0108127D-A1FB-451F-A174-4EB7C0506FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0108127D-A1FB-451F-A174-4EB7C0506FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0108127D-A1FB-451F-A174-4EB7C0506FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3306173-676A-4899-8B4A-9ADB59C6F34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3306173-676A-4899-8B4A-9ADB59C6F34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3306173-676A-4899-8B4A-9ADB59C6F34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3306173-676A-4899-8B4A-9ADB59C6F34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DEE3F0F-156C-495E-944A-F1E29253C273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEE3F0F-156C-495E-944A-F1E29253C273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEE3F0F-156C-495E-944A-F1E29253C273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEE3F0F-156C-495E-944A-F1E29253C273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
