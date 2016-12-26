@@ -17,3 +17,16 @@ E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Web\bin\Mat
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Web\obj\Release\MaterialBalance.Web.csprojResolveAssemblyReference.cache
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Web\obj\Release\MaterialBalance.Web.dll
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Web\obj\Release\MaterialBalance.Web.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\MaterialBalance.Web.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\MaterialBalance.Web.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\MaterialBalance.Infrastructure.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\MaterialBalance.Service.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\mDbDataAdaper.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\InternalMemeryRestore.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\SqlServerDataAdapter.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\AutoMapper.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\MaterialBalance.Infrastructure.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\bin\MaterialBalance.Service.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\obj\Release\MaterialBalance.Web.csprojResolveAssemblyReference.cache
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\obj\Release\MaterialBalance.Web.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Web\obj\Release\MaterialBalance.Web.pdb

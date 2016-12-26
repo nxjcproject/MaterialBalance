@@ -23,7 +23,7 @@
 </head>
 <body>
      <div class="easyui-layout" data-options="fit:true,border:false">
-        <div data-options="region:'west',split:true" style="width: 230px;">
+        <div data-options="region:'west',split:true" style="width: 150px;">
             <uc1:OrganisationTree ID="OrganisationTree_ProductionLine" runat="server" />
         </div>
         <!-- 图表开始 -->
@@ -35,7 +35,7 @@
                             <tr>
                                 <td style="width:60px"> 组织机构：</td>
                                 <td>
-                                    <input id="productLineName" class="easyui-textbox" style="width: 150px;" readonly="true" /><input id="organizationId" readonly="true" style="display: none;" />
+                                    <input id="productLineName" class="easyui-textbox" style="width: 100px;" readonly="true" /><input id="organizationId" readonly="true" style="display: none;" />
                                 </td>                                                                                        
                                 <td class="queryDate"><a href="javascript:void(0);" class="easyui-linkbutton" data-options="iconCls:'icon-search',plain:true"
                                     onclick="QueryMaterialLibrary();">查询</a>

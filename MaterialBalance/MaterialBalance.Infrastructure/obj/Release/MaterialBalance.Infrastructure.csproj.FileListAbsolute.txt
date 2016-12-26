@@ -3,3 +3,8 @@ E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastruct
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.csprojResolveAssemblyReference.cache
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.dll
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Infrastructure\bin\Release\MaterialBalance.Infrastructure.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Infrastructure\bin\Release\MaterialBalance.Infrastructure.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.csprojResolveAssemblyReference.cache
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Infrastructure\obj\Release\MaterialBalance.Infrastructure.pdb

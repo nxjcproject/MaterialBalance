@@ -3,3 +3,13 @@ E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\bin
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.csprojResolveAssemblyReference.cache
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.dll
 E:\NXJC\项目文件\MaterialBalance\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.pdb
+C:\Users\Administrator\Desktop\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\bin\Debug\MaterialBalance.Service.dll
+C:\Users\Administrator\Desktop\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\bin\Debug\MaterialBalance.Service.pdb
+C:\Users\Administrator\Desktop\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.dll
+C:\Users\Administrator\Desktop\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\bin\Debug\MaterialBalance.Service.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\bin\Debug\MaterialBalance.Service.pdb
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.csprojResolveAssemblyReference.cache
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.dll
+H:\徐一帅项目\第一轮修改\MaterialBalance-master\MaterialBalance-master\MaterialBalance\MaterialBalance.Service\obj\Debug\MaterialBalance.Service.pdb
